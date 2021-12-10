@@ -1,7 +1,7 @@
-title: Long Haul
+title: Minwoo's Blog
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://kmu.minwoo.blog
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -22,11 +22,9 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: kmu-Minwoo
+  email: alsdn4956@kookmin.ac.kr
+  linkedin: 
 
 google_analytics: "UA-58263416-1"
 
