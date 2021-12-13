@@ -2,64 +2,52 @@
 layout: post
 title:  "Jekyll"
 date:   2021-12-14
-description: Jekyll이란?/Jekyll의 메커니즘
+description: Jekyll이란?/Jekyll 설치 및 배포/Jekyll의 메커니즘
 ---
 
-<p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
+<p class="start"># Jekyll이란?</p>    
+텍스트 변환 엔진으로, 마크업 언어로 글을 작성하면 미리 정의해 놓은 규칙에 따라서 정적인 웹사이트를 만들어줌.   
+정적 웹사이트를 만들기 때문에, PHP 등의 소프트웨어가 필요없다.   
+매우 빠르고 가볍다.   
+기본적인 형식)    
+마크다운 언어로 작성한 포스트를 github에서 commit&push 한다.   
 
-# Heading 1 
 
-## Heading 2
+<p class="start"># Jekyll 설치 및 배포</p>    
+Gem을 이용해 설치   
+![image](https://user-images.githubusercontent.com/84303574/145892603-c4d56a16-7b9f-483e-ace0-c0f786a4bef8.png)   
+Gem은 ruby의 설치관리자로 node의 npm과 유사함   
 
-### Heading 3
+<p class="start"># Jekyll로 새 블로그 생성하기</p>    
+![image](https://user-images.githubusercontent.com/84303574/145892843-2807f746-711c-4a79-95b6-c00a7dd57bad.png)   
 
-#### Heading 4
+<p class="start"># 블로그 실행하기</p>    
+블로그 디렉터리로 이동   
+![image](https://user-images.githubusercontent.com/84303574/145892987-133b6fa4-37bd-4161-8d94-75281003605c.png)   
 
-##### Heading 5
+<p class="start">## 로컬환경에서 실행하기</p>    
+bundle exec를 붙이면 GemFile에 정의된 Jekyll을 실행할 수 있음   
+브라우저에서 기본주소 127.0.0.1:4000로 접속하면 생성된 사이트 확인가능   
+포트변경도 가능   
 
-###### Heading 6
+<p class="start"># Jekyll의 매커니즘</p>    
 
-<blockquote>Aenean lacinia bibendum nulla sed consectetur. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum. Nulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor. Donec sed odio dui. Cras mattis consectetur purus sit amet fermentum.</blockquote>
+## 파일 기반의 데이터를 정적인 리소스로 빌드해서 서비스   
+게시글마다 md 파일이나 html 파일을 생성한다.   
+글을 작성하고 배포하기 위한 빌드를 Jekyll에서 진행하면 응답할 html 화면을 만들고 파일로 저장해서 준비.   
+유저가 특정 화면을 요청하면 미리 생성한 html 파일을 찾아 꺼내준다.
+**DB를 조회하고 HTML 양식으로 응답하는 과정과 같다.   
 
-Nullam quis risus eget urna mollis ornare vel eu leo. Cras mattis consectetur purus sit amet fermentum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+### 모든 화면을 미리 만든다.   
+유저가 요청할 수 있는 모든 화면을 미리 빌드에 두는 방식을 상용   
+따라서 글이 많을 수록 길어지는 글 목록 화면이 많아지고 미리 만들어야하는 페이지 수도 많아진다.
 
-## Unordered List
-* List Item
-* Longer List Item
-  * Nested List Item
-  * Nested Item
-* List Item
+### 검색 기능   
+클라이언트 스크립트를 사용해서 작성된 모든 글의 제목과 내용에 키워드를 조회한다.   
+최상위 경로 검색에 필요한 정보인 search.json을 생성한다.   
+자바스크립트를 이용해 검색한다.   
 
-## Ordered List
-1. List Item
-2. Longer List Item
-    1. Nested OL Item
-    2. Another Nested Item
-3. List Item
 
-## Definition List
-<dl>
-  <dt>Coffee</dt>
-  <dd>Black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>White cold drink</dd>
-</dl>
+###추가   
+git에서는 post의 확장자가 무조건 markdown이어야 정상적으로 html로 변환된다.
 
-Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas faucibus mollis interdum. Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-## Table
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Curabitur blandit tempus porttitor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-
-Maecenas faucibus mollis interdum. Maecenas faucibus mollis interdum. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Etiam porta sem malesuada magna mollis euismod. Vestibulum id ligula porta felis euismod semper. Cras mattis consectetur purus sit amet fermentum.
-
-Sed posuere consectetur est at lobortis. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-
-Curabitur blandit tempus porttitor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas faucibus mollis interdum. Nullam id dolor id nibh ultricies vehicula ut id elit.
