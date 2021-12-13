@@ -2,7 +2,7 @@
 layout: post
 title:  "Git & Github"
 date:   2021-12-14
-description: Git이란?/Github이란?/Github 사용해보기!/Branch란?
+description: Git이란?/Github이란?/Github 장단점/Github 사용해보기
 image: touring.jpg
 ---
 
@@ -35,14 +35,12 @@ image: touring.jpg
 1-2. git --version을 입력   
 1-3. 잘 나온다면 설치 성공   
 
-2. Github 계정 생성하기 
-3. ![image](https://user-images.githubusercontent.com/84303574/145882683-c33473ed-f345-41a0-90a0-da9e647ed20b.png)
+2. Github 계정 & Repository 생성하기   
+![image](https://user-images.githubusercontent.com/84303574/145882683-c33473ed-f345-41a0-90a0-da9e647ed20b.png)   
+2-1. 책 처럼 생긴 모양 오른쪽 NEW 클릭
+![image](https://user-images.githubusercontent.com/84303574/145883492-6c7f96d8-fc57-49b9-ab76-b065d31fb01f.png)
+2-2. Repository Name 을 입력 후   Public(공개)로 할 것인지, Private(비공개)로 할 것 인지 정하면 끝!   
 
-
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
-
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
-
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
-
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+3. Repository 확인
+![image](https://user-images.githubusercontent.com/84303574/145884077-a9573540-11dd-4925-892d-fae09903750b.png)
+3-1. 위 사진처럼 Repository가 나와있다면 성공!
