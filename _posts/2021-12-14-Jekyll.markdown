@@ -15,7 +15,7 @@ description: Jekyll이란?/Jekyll 설치 및 배포/Jekyll의 메커니즘
 
 <p class="start"># Jekyll 설치 및 배포</p>    
 Gem을 이용해 설치   
-![image](https://user-images.githubusercontent.com/84303574/145892603-c4d56a16-7b9f-483e-ace0-c0f786a4bef8.png)   
+![image](https://user-images.githubusercontent.com/84303574/145892603-c4d56a16-7b9f-483e-ace0-c0f786a4bef8.png)
 Gem은 ruby의 설치관리자로 node의 npm과 유사함   
 
 <p class="start"># Jekyll로 새 블로그 생성하기</p>    
@@ -25,14 +25,14 @@ Gem은 ruby의 설치관리자로 node의 npm과 유사함
 블로그 디렉터리로 이동   
 ![image](https://user-images.githubusercontent.com/84303574/145892987-133b6fa4-37bd-4161-8d94-75281003605c.png)   
 
-<p class="start">## 로컬환경에서 실행하기</p>    
+<p class="start">## 로컬환경에서 실행하기</p>
 bundle exec를 붙이면 GemFile에 정의된 Jekyll을 실행할 수 있음   
-브라우저에서 기본주소 127.0.0.1:4000로 접속하면 생성된 사이트 확인가능   
+기본주소 127.0.0.1:4000로 접속하면 생성된 사이트 확인가능   
 포트변경도 가능   
 
 <p class="start"># Jekyll의 매커니즘</p>    
 
-## 파일 기반의 데이터를 정적인 리소스로 빌드해서 서비스   
+### 파일 기반의 데이터를 정적인 리소스로 빌드해서 서비스   
 게시글마다 md 파일이나 html 파일을 생성한다.   
 글을 작성하고 배포하기 위한 빌드를 Jekyll에서 진행하면 응답할 html 화면을 만들고 파일로 저장해서 준비.   
 유저가 특정 화면을 요청하면 미리 생성한 html 파일을 찾아 꺼내준다.
