@@ -36,6 +36,8 @@ image: touring.jpg
 1-3. 잘 나온다면 설치 성공   
 
 2. Github 계정 생성하기 
+3. ![image](https://user-images.githubusercontent.com/84303574/145882683-c33473ed-f345-41a0-90a0-da9e647ed20b.png)
+
 
 Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
 
