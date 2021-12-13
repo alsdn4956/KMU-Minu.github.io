@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Featured Image"
+title:  "Git & Github"
 date:   2014-12-14
 image: touring.jpg
 ---
