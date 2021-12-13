@@ -18,7 +18,7 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 
 <p class="start"># Markdown 문법</p>
 
-###Heading
+###Heading   
 #1~6개를 붙여서 제목 글자 크기와 중요도를 정할 수 있다.   
 
 # heading : heading1   
