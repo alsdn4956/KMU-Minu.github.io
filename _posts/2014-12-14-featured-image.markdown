@@ -37,8 +37,8 @@ image: touring.jpg
 
 2. Github 계정 & Repository 생성하기   
 ![image](https://user-images.githubusercontent.com/84303574/145882683-c33473ed-f345-41a0-90a0-da9e647ed20b.png)   
-2-1. 책 처럼 생긴 모양 오른쪽 NEW 클릭
-![image](https://user-images.githubusercontent.com/84303574/145883492-6c7f96d8-fc57-49b9-ab76-b065d31fb01f.png)
+2-1. 책 처럼 생긴 모양 오른쪽 NEW 클릭   
+![image](https://user-images.githubusercontent.com/84303574/145883492-6c7f96d8-fc57-49b9-ab76-b065d31fb01f.png)   
 2-2. Repository Name 을 입력 후   Public(공개)로 할 것인지, Private(비공개)로 할 것 인지 정하면 끝!   
 
 3. Repository 확인
