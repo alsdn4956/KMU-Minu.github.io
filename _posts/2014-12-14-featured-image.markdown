@@ -2,7 +2,7 @@
 layout: post
 title:  "Git & Github"
 date:   2021-12-14
-description: Git이란?/Github이란?/Github 장단점/Github 사용해보기
+description: Git이란?/Github이란?/Github 장점/Github 사용해보기
 image: touring.jpg
 ---
 
