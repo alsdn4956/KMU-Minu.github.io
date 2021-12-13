@@ -11,7 +11,16 @@ image: touring.jpg
 전 세계에서 오픈 소스 프로젝트 관리를 위해 가장 많이 사용되는 웹 호스팅 서비스.    
 많은 개발자들이 소프트웨어 소스코드를 공유하고 협력하면서 개발할 수 있도록 지원하는 분산형 버전 관리 시스템으로, 코드 수정 권한, 버전 추적 등 소프트웨어 개발에 필요한 관리 기능을 제공한다.
 
-<p class="start">Git 장/단점</p>
+<p class="start">Git 장점</p>
+
+개인)    
+-원하는 시점으로 복원 가능    
+-작업한 내역을 타임라인 순으로 확인 가능    
+-수정한 내용에 대한 문서화 용이    
+-브랜치를 생성하고 병합하는것도 간편   
+팀)   
+-여러 사람이 하나의 소스를 작업해도 충돌 방지/해결   
+-누가 어떤 작업을 진행했는지 확인 가능   
 
 
 Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
