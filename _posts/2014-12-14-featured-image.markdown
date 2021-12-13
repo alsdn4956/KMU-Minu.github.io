@@ -2,6 +2,7 @@
 layout: post
 title:  "Git & Github"
 date:   2014-12-14
+description: Git이란?/Github이란?/Github 사용해보기!/Branch란?
 image: touring.jpg
 ---
 
