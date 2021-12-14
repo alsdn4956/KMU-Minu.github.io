@@ -7,7 +7,7 @@ description: Mardown이란?/Markdown 문법
 
 <p class="start"># Markdown이란?</p>   
 일반 텍스트 문서의 양식을 편집하는 문법   
-README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 사용
+README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서 양식을 편집할 때 사용   
 쉽게 HTML문서 형태로 변환이 가능   
 
 <p class="start">Markdown이 각광받기 시작한 이유</p>   
