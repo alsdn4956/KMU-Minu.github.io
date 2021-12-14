@@ -11,24 +11,37 @@ description: Jekyll이란?/Jekyll 설치 및 배포/Jekyll의 메커니즘
 매우 빠르고 가볍다.   
 기본적인 형식)    
 마크다운 언어로 작성한 포스트를 github에서 commit&push 한다.   
+<br/>
+<br/>
+<br/>
 
 
 <p class="start"># Jekyll 설치 및 배포</p>    
 Gem을 이용해 설치   
 ![image](https://user-images.githubusercontent.com/84303574/145892603-c4d56a16-7b9f-483e-ace0-c0f786a4bef8.png)
 Gem은 ruby의 설치관리자로 node의 npm과 유사함   
+<br/>
+<br/>
+<br/>
 
 <p class="start"># Jekyll로 새 블로그 생성하기</p>    
 ![image](https://user-images.githubusercontent.com/84303574/145892843-2807f746-711c-4a79-95b6-c00a7dd57bad.png)   
+<br/>
+<br/>
 
 <p class="start"># 블로그 실행하기</p>    
 블로그 디렉터리로 이동   
 ![image](https://user-images.githubusercontent.com/84303574/145892987-133b6fa4-37bd-4161-8d94-75281003605c.png)   
+<br/>
+<br/>
 
 <p class="start">## 로컬환경에서 실행하기</p>
 bundle exec를 붙이면 GemFile에 정의된 Jekyll을 실행할 수 있음   
 기본주소 127.0.0.1:4000로 접속하면 생성된 사이트 확인가능   
 포트변경도 가능   
+<br/>
+<br/>
+<br/>
 
 <p class="start"># Jekyll의 매커니즘</p>    
 
@@ -47,6 +60,9 @@ bundle exec를 붙이면 GemFile에 정의된 Jekyll을 실행할 수 있음
 최상위 경로 검색에 필요한 정보인 search.json을 생성한다.   
 자바스크립트를 이용해 검색한다.   
 
+<br/>
+<br/>
+<br/>
 
 ###추가   
 git에서는 post의 확장자가 무조건 markdown이어야 정상적으로 html로 변환된다.
