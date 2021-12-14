@@ -10,7 +10,6 @@ description: Google Analytics란?/사용하는 이유/활용방안/사용법
 
 <p class="start"># Google Analytics란?</p>   
 <br/>
-<br/>
 구글에서 무료로 제공하고 있는 웹분석 서비스
 <br/>
 <br/>
