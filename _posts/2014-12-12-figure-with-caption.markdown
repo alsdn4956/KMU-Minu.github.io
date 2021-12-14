@@ -2,7 +2,7 @@
 layout: post
 title:  "Google Analytics"
 date:   2021-12-14
-description: Google Analytics란?/사용하는 이유/활용방안/사용법
+description: Google Analytics란?/Google Analytics를 사용하는 이유
 
 ---
 <br/>
