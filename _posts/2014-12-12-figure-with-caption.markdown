@@ -2,31 +2,103 @@
 layout: post
 title:  "Google Analytics"
 date:   2021-12-14
-description: Google Analytics란?/Google Analytics 장/단점/활용방안/사용법
+description: Google Analytics란?/사용하는 이유/활용방안/사용법
 
 ---
+<br/>
+<br/>
+
+<p class="start"># Google Analytics란?</p>   
+<br/>
+<br/>
+구글에서 무료로 제공하고 있는 웹분석 서비스
+<br/>
+<br/>
+
+![image](https://user-images.githubusercontent.com/84303574/145998694-50217eb0-d0a9-44c2-ac46-9e5478f57b26.png)
+<br/>
+구글 애널리틱스는 현재 전세계적으로 가장 널리 사용되는   
+대표적인 웹분석 솔루션입니다.   
+<br/>
+2014년 기준 포춘 500대 기업 웹사이트 중 무려 67%가 구글 애널리틱스를 사용하고 있다고 합니다.
+<br/>
+![image](https://user-images.githubusercontent.com/84303574/145998947-c943db32-ebd7-475a-8d6a-540689b8c170.png)
+<br/>
+<br/>
+<br/>
+
+## 구글 애널리틱스를 사용하는 이유
+<br/>
+<br/>
+#### 방문자의 유입 출처 확인
+<br/>
+
+구글 애널리틱스에서 '획득 > 전체 트래픽 > 소스/매체'를 열면 아래와 같은 표를 볼 수 있습니다.
+<br/>
+
+![image](https://user-images.githubusercontent.com/84303574/146000935-78d76f97-9ddb-42d5-b939-394ee2993238.png)
+<br/>
+<br/>
+구글 광고를 통해 몇명이 방문했는지 네이버 블로그나 페이스북을 통해서는 몇명이 방문했는지 알 수 있습니다.
+<br/>
+'소스/매체'에서 '소스'는 유입의 출처가 되는 사이트나 서비스명, '매체'는 유입의 유형을 분류해 놓은 카테고리입니다.
+<br/>
+소스 = google, facebook, naver 또는 tistory.com같은 도메인이 표시될 수 있습니다.
+<br/>
+매체 = cpc(유료광고), organic(자연검색), social(소셜) 등의 분류
+
+#### 사용자 행동 파악
+<br/>
+<br/>
+소스/매체 보고서 뿐 아니라 여러 보고서에서 '이탈률'이나 '세션 당 페이지 수', '평균 세션 시간'과 같은 지수를 통해 사이트 내에서 사용자의 행동을 파악할 수 있습니다.
+<br/>
+
+![image](https://user-images.githubusercontent.com/84303574/146009782-53300bb4-82c7-4f75-842b-2e762df43a60.png)
+
+'이탈률'은 사용자가 첫 페이지를 조회하는 것 외에 추가적인 행동없이 사이트를 떠나는 비율입니다.<br/>
+'이탈'은 곧 사이트에 흥미를 느끼지 못했다는 의미이므로 적을수록 좋습니다.<br/>
+<br/>
+'이탈률'은 컨텐츠의 품질, UI, UX를 평가하는데 있어 매우 중요한 지수입니다.
+<br/>
+'세션 당 페이지 수'는 하나의 세션동안 조회한 페이지수의 평균입니다.
+<br/>
+'평균 세션 시간'은 한 세션의 평균 시간입니다. 사용자가 방문해서 사이트에 머무른 시간이므로 길수록 좋습니다.
+<br/>
+<p class="start">'전환'은 행동 측정에 있어 어떤 지수보다도 큰 중요도를 가집니다.
+</p>   
+
+#### 구글 Ads 최적화
+<br/>
+구글 Ads의 광고주가 광고 계정을 구글 애널리틱스 계정과 연결하면 두가지 매우 유용한 데이터를 수신해서
+광고 최적화에 활용할 수 있습니다.
+<br/>
+
+* 목표 데이터
+* 잠재고객 목록
+<br/>
+## *목표 데이터
+
+구글 애널리틱스에서 '목표'는 사이트 관리자가 비즈니스에 도움이 되는 것으로 정의해놓은 사용자의 행동입니다.
+<br/>
+제품을 구매하거나 사이트 회원으로 가입하는 등의 행동이 '목표'로 설정될 수 있습니다.
+<br/>
+
+![image](https://user-images.githubusercontent.com/84303574/146012625-1ee1f63b-3df3-4e14-b25c-be655ce46c29.png)
+<br/>
+<br/>
 
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
 
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
+## *잠재고객 목록
+<br/>
 
-<figure>
-	<img src="/assets/img/touring.jpg" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
+리마케팅 캠페인을 운영하려면 사이트 방문자나 전환 사용자의 목록이 필요한데 이러한 잠재고객 목록을 만들고 관리하는데도 구글 애널리틱스가 유용하게 할용됩니다. '목표'의 경우와 마찬가지로 구글 Ads 자체적으로 잠재고객 목록을 생성할 수 있지만 구글 애널리틱스의 잠재고객 기능을 이용하면 보다 쉽고 편리하게 잠재고객을 만들고 관리할 수 있습니다.
 
-{%- highlight html -%}
-<figure>
-	<img src="/assets/img/touring.jpg" alt=""> 
-	<figcaption>Fig1. - This is an example figcaption</figcaption>
-</figure>
-{%- endhighlight -%}
+아래 예시에서처럼 특정 '소스'에서의 유입, 특정 '목표'의 달성, 특정한 '행동' 조건의 충족을 기준으로 사용자 세그먼트를 만든 후 잠재고객 화면으로 불러와 동일 조건의 잠재고객을 생성할 수 있습니다.
 
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
+<br/>
 
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
+![image](https://user-images.githubusercontent.com/84303574/146012865-c2922b65-2592-49ef-b2f3-f5827afc4f4e.png)
+<br/>
+<br/>
 
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
-
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
