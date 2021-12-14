@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "My profile"
+date:   2021-12-14
+---
+
+<p class="start"> Hi! I'm JangMinwoo</p>
+
+간단하게 인스타와 github 활동만 적을게
+<br/>
+## Instagram
+![image](https://user-images.githubusercontent.com/84303574/146021955-301b1225-0eb2-44e4-9030-2817de30b1f2.png)
+
+인스타 아이디는 xxminuxx_ 야 많이 놀러와 !
+<br/>
+
+![image](https://user-images.githubusercontent.com/84303574/146022222-f1bff7bc-ff9a-4ef7-b282-0e7558c4312b.png)
+주로 놀러다니면서 찍은 사진들 많이 올려 
+
+## Github
+
+![image](https://user-images.githubusercontent.com/84303574/146022490-ec29a6ec-a236-4e1a-a7e2-7ecf4caf7941.png)
+<br/>
+깃허브는 앞으로 학교에서 활동한 것과, 스스로 공부한 내용들 올릴 예정이야 !
+
