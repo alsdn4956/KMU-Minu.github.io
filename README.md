@@ -62,6 +62,7 @@ Start Command Promp with Ruby를 실행
 ![image](https://user-images.githubusercontent.com/84303574/146314535-ba1b8fef-7636-4dac-b5bb-64a3d7fe0fa7.png) <br/>
 를 입력해 패키지 설치
 jekyll -v 를 입력해 설치 확인
+<br/>
 
 ![image](https://user-images.githubusercontent.com/84303574/146315535-83742b20-ee13-4303-84b7-92eafe6a9689.png) <br/>
 자신의 블로그를 생성하고  <br/>
@@ -88,7 +89,6 @@ kmu-Minwoo.github.io  <- 이렇게 말이다.
 <br/>
 만약 원격저장소와 로컬저장소를 연결하고 싶다면 clone 명령어를 통해 연결할 수도 있다.
 <br/>
-
 
 ### 5. Google Analytics
 <br/>
