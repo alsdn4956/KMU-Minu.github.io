@@ -23,7 +23,9 @@
 블로그를 만든 기념으로 작성해 본 포스트이다. <br/>
 간단하게 인스타 아이디와 Github 주소를 올렸다.
 <br/>
-*xxminuxx_  <br/>
+xxminuxx_  <br/>
+https://github.com/kmu-Minwoo <br/>
+
 <br/>
 
 ### 2. Markdown
