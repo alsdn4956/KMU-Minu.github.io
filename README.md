@@ -93,6 +93,40 @@ kmu-Minwoo.github.io  <- 이렇게 말이다.
 
 ### 5. Google Analytics
 <br/>
-<br/>
 https://kmu-minwoo.github.io/blog/Google-Analytics/
 <br/>자세한 과정과 사진이 위 post에 작성되어있음 !!
+<br/>
+<br/>
+<br/>
+
+### 6. favicon
+
+favicon이란 즐겨찾기 아이콘이다. <br/>
+즐겨찾기(favorites)와 아이콘(icon)의 합성어로, 주소창에 조그만 아이콘으로 표시되어있다.<br/>
+<br/>
+나는 최근들어 코인과 주식을 시작하여서 비트코인 사진으로 favicon을 설정하였다.
+
+### 7. 댓글 기능 추가하기
+
+https://disqus.com  <br/>
+위 홈페이지에서 Disqus에 가입한다.<br/>
+<br/>
+가장 먼저 보이는 화면에서 Get started를 클릭해준다. <br/>
+
+"I want to install Disqus on my site" 클릭 <br/>
+사이트의 이름, 카테고리, 언어를 입력해준다. <br/>
+모든 정보를 다 입력했다면 Create Site를 눌러준다.<br/>
+
+Plan 과 Platform을 선택한다. <br/>
+자신이 댓글 기능을 추가할 플랫폼이 목록에 있다면 선택해준다. <br/>
+목록에 없다면 아래의 I don't see my platform listed. install manually with Univresal Code를 선택한다.
+
+![image](https://user-images.githubusercontent.com/84303574/146370689-2e7afa0c-8656-4990-8a26-e11cf9af9253.png)
+<br/>
+1번에 항목에 있는 코드를 전부 복사해준다. <br/>
+복사한 코드를 붙여놓고 저장해주면 완성! <br/>
+
+![image](https://user-images.githubusercontent.com/84303574/146371117-44387141-b336-4ba4-84fa-0a233c14e00e.png)
+<br/>
+위 사진처럼 댓글기능이 추가된 것을 볼 수 있다.
+
