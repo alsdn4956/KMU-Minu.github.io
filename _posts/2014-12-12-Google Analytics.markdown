@@ -98,3 +98,33 @@ description: Google Analytics란?/Google Analytics를 사용하는 이유
 <br/>
 <br/>
 
+## 구글 애널리틱스 추가하는 법
+
+
+![image](https://user-images.githubusercontent.com/84303574/146317324-10ffbf5a-690d-4a18-958c-e6569f828878.png)
+<br/>
+사이트 추가 = 계정 추가 라고 생각하실 수 있습니다.
+<br/>
+![image](https://user-images.githubusercontent.com/84303574/146317420-48d56634-06d8-412f-99bd-19ee8d5c5b44.png)
+<br/>
+계정이름 정하기
+<br/>
+일반적으로는 사이트 이름으로 합니다.
+<br/>
+![image](https://user-images.githubusercontent.com/84303574/146317564-650820e7-a13c-44c1-b7ed-a374fb17081a.png)
+<br/>
+웹사이트의 방문을 분석할 것인지 앱을 측정할 것인지 선택합니다.
+<br/>
+![image](https://user-images.githubusercontent.com/84303574/146317659-bd9e27fc-f510-465d-96a4-e70b2630f180.png)
+<br/>
+위 네가지를 설정해줍니다.
+<br/>
+<br/>
+![image](https://user-images.githubusercontent.com/84303574/146317771-d6d1d043-f967-4a12-a21a-c56e689a2b5e.png)
+<br/>
+구글 애널리틱스 추적코드(ID)는 이곳에서 확인 가능합니다.<br/>
+아래는 추적아이디가 포함된 스크립트코드입니다.<br/>
+HTML <HEAD>... </head> 사이에 넣어줍니다.
+<br/>
+<br/>
+에드센스 연결하면 완성 !
