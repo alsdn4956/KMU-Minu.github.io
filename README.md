@@ -79,7 +79,9 @@ Git이 무엇인지 설명하고 Git을 개인과 팀이 사용하였을 때의 
 <br/>
 먼저 Git을 설치한다.
 그 다음 Github 계정을 생성한다.<br/>
-![image](https://user-images.githubusercontent.com/84303574/146313895-e3bdb683-4c5c-409d-9a82-b47e0a546908.png)
+![image](https://user-images.githubusercontent.com/84303574/146316390-bbe8cd95-49ab-4ead-9610-67ad4956bea6.png)
+<br/>
+<br/>
 사전처럼 생긴 모양 오른쪽 NEW 클릭 <br/>
 
 ![image](https://user-images.githubusercontent.com/84303574/146313986-b75caa9f-4f91-49ef-b587-b788850a4cf2.png)
