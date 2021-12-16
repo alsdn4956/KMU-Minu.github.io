@@ -55,9 +55,6 @@ Jekyll 은 텍스트 변환 엔진이다.<br/>
 매우 빠르고 가볍다는 장점이 있다.<br/>
 <br/>
 <br/>
-Gem을 이용해 설치한다. <br/>
-![image](https://user-images.githubusercontent.com/84303574/146316177-251929ac-e951-45f7-aa39-ea22a86cf05f.png) <br/>
-<br/>
 https://rubyinstaller.org/downloads/ <br/>
 위 페이지에서 윈도우용 루비 + 개발자킷(DevKit) 설치 프로그램을 다운로드 후 완료되면,
 Start Command Promp with Ruby를 실행
