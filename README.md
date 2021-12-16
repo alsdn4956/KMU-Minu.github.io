@@ -1,8 +1,46 @@
-![preview Long Haul](/preview.jpg)
+![image](https://user-images.githubusercontent.com/84303574/146312456-cd62974a-f593-4d94-9ab9-cfc4be176013.png)
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+# My Github Page
+-------------------------------------------
+### 목차
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+#### My profile
+<br/>
+#### Markdown
+<br/>
+#### Jekyll
+<br/>
+#### Git & Github
+<br/>
+#### Google Analytics
+-----------------------------------
+
+
+### 1. My profile
+<br/>
+<br/>
+
+블로그를 만든 기념으로 작성해 본 포스트이다. <br/>
+간단하게 인스타 아이디와 Github 주소를 올렸다.
+<br/>
+*xxminuxx_  <br/>
+<br/>
+
+### 2. Markdown
+<br/>
+<br/>
+Markdown은 일반 텍스트 문서의 양식을 편집하는 문법이다.<br/>
+README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문서양식을 편집할 때 사용한다.<br/>
+쉽게 HTML문서 형태로 변환이 가능하다는 장점이 있다.<br/>
+<br/>
+이처럼 Markdown이 무엇인지 설명하고, Markdown 문법에 대해 소개하였다.
+<br/>
+주의깊게 알아볼 문법은 #의 개수이다.<br/>
+개수에 따라 문서의 크기를 바꿀 수 있는데 1~6개 순으로 크기가 점점 작아진다.
+
+
+
+
 
 #### [View Demo](http://brianmaierjr.com/long-haul)
 
