@@ -105,6 +105,9 @@ favicon이란 즐겨찾기 아이콘이다. <br/>
 즐겨찾기(favorites)와 아이콘(icon)의 합성어로, 주소창에 조그만 아이콘으로 표시되어있다.<br/>
 <br/>
 나는 최근들어 코인과 주식을 시작하여서 비트코인 사진으로 favicon을 설정하였다.
+![image](https://user-images.githubusercontent.com/84303574/146371493-b6689cb3-2f1f-4cbd-96af-59981d09a600.png)
+<br/>
+<br/> 위 사진으로 바꾸었다 ㅎㅎ
 
 ### 7. 댓글 기능 추가하기
 
