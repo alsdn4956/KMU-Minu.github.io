@@ -13,6 +13,8 @@
 #### Git & Github
 
 #### Google Analytics
+
+#### favicon
 -----------------------------------
 
 
@@ -89,7 +91,10 @@ kmu-Minwoo.github.io  <- 이렇게 말이다.
 
 
 ### 5. Google Analytics
-
+<br/>
+<br/>
+https://kmu-minwoo.github.io/blog/Google-Analytics/
+자세한 과정과 사진이 위 post에 작성되어있음 !!
 
 #### [View Demo](http://brianmaierjr.com/long-haul)
 
