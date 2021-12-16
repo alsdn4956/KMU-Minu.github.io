@@ -25,7 +25,8 @@
 <br/>
 xxminuxx_  <br/>
 https://github.com/kmu-Minwoo <br/>
-
+<br/>
+<br/>
 <br/>
 
 ### 2. Markdown
@@ -42,6 +43,7 @@ README 파일이나 온라인 문서, 혹은 일반 텍스트 편집기로 문�
 <br/>
 ![image](https://user-images.githubusercontent.com/84303574/146313538-f8f2a9e9-00ee-40dc-9c0b-d7dea0ded8ff.png)
 깃허브에서 바꾸지 않고 콘솔창에서도 바꿀 수 있다.
+<br/>
 <br/>
 <br/>
 
@@ -64,17 +66,14 @@ Start Command Promp with Ruby를 실행
 를 입력해 패키지 설치
 jekyll -v 를 입력해 설치 확인
 
-![image](https://user-images.githubusercontent.com/84303574/146314993-0f430ee7-0b0f-41c3-9ef8-ccf9394d0521.png)
-자신의 블로그를 생성하고 블로그 디렉터리로 이동한다.<br/>
+![image](https://user-images.githubusercontent.com/84303574/146315535-83742b20-ee13-4303-84b7-92eafe6a9689.png) <br/>
+자신의 블로그를 생성하고  <br/>
+![image](https://user-images.githubusercontent.com/84303574/146315586-59eeab08-980d-48e2-8d01-4df39bbaa908.png) <br/>
+블로그 디렉터리로 이동한다.<br/>
 위의 과정들을 통해 Jekyll 환경을 구성하였다.
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 ### 4. Git계정 & Repository 생성하기
 <br/>
